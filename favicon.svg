@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#65465f" />
+  <text x="32" y="43" fill="#fbf5ec" font-family="Georgia, serif" font-size="31" text-anchor="middle" letter-spacing="-2">IF</text>
+  <path d="M50 10l1.7 4.3L56 16l-4.3 1.7L50 22l-1.7-4.3L44 16l4.3-1.7L50 10z" fill="#e9d978" />
+</svg>
